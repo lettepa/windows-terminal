@@ -1,0 +1,23 @@
+{
+  "name": "Lettepa Light",
+  "black": "#DFF3FF",
+  "red": "#ED5A65",
+  "green": "#47D2BC",
+  "yellow": "#F9BF45",
+  "blue": "#37B4FD",
+  "purple": "#FD67B8",
+  "cyan": "#71DCEA",
+  "white": "#5C7186",
+  "brightBlack": "#CCE0EC",
+  "brightRed": "#CB1B45",
+  "brightGreen": "#00AA90",
+  "brightYellow": "#CA7A2C",
+  "brightBlue": "#005CAF",
+  "brightPurple": "#E03C8A",
+  "brightCyan": "#3A8FB7",
+  "brightWhite": "#24384F",
+  "background": "#DFF3FF",
+  "foreground": "#24384F",
+  "selectionBackground": "#CCE0EC",
+  "cursorColor": "#24384F"
+}

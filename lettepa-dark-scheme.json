@@ -1,0 +1,23 @@
+{
+  "name": "Lettepa Dark",
+  "black": "#08192D",
+  "red": "#CB1B45",
+  "green": "#00AA90",
+  "yellow": "#CA7A2C",
+  "blue": "#005CAF",
+  "purple": "#E03C8A",
+  "cyan": "#3A8FB7",
+  "white": "#83A2B7",
+  "brightBlack": "#24384F",
+  "brightRed": "#ED5A65",
+  "brightGreen": "#47D2BC",
+  "brightYellow": "#F9BF45",
+  "brightBlue": "#37B4FD",
+  "brightPurple": "#FD67B8",
+  "brightCyan": "#71DCEA",
+  "brightWhite": "#CCE0EC",
+  "background": "#08192D",
+  "foreground": "#CCE0EC",
+  "selectionBackground": "#24384F",
+  "cursorColor": "#CCE0EC"
+}
