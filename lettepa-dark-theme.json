@@ -1,0 +1,15 @@
+{
+  "name": "Lettepa Dark",
+  "tab": {
+    "background": "#08192DFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": "#24384FFF"
+  },
+  "tabRow": {
+    "background": "#24384FFF",
+    "unfocusedBackground": "#24384FFF"
+  },
+  "window": {
+    "applicationTheme": "dark"
+  }
+}
