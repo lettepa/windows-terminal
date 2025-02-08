@@ -1,13 +1,13 @@
 {
   "name": "Lettepa Light",
   "tab": {
-    "background": "#DFF3FFFF",
+    "background": "#FCFAF2FF",
     "showCloseButton": "always",
-    "unfocusedBackground": "#CCE0ECFF"
+    "unfocusedBackground": "#BDC0BAFF"
   },
   "tabRow": {
-    "background": "#CCE0ECFF",
-    "unfocusedBackground": "#CCE0ECFF"
+    "background": "#BDC0BAFF",
+    "unfocusedBackground": "#BDC0BAFF"
   },
   "window": {
     "applicationTheme": "light"

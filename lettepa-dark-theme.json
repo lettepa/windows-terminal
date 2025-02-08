@@ -3,11 +3,11 @@
   "tab": {
     "background": "#08192DFF",
     "showCloseButton": "always",
-    "unfocusedBackground": "#24384FFF"
+    "unfocusedBackground": "#0F2540FF"
   },
   "tabRow": {
-    "background": "#24384FFF",
-    "unfocusedBackground": "#24384FFF"
+    "background": "#0F2540FF",
+    "unfocusedBackground": "#0F2540FF"
   },
   "window": {
     "applicationTheme": "dark"
